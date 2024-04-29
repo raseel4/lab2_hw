@@ -6,6 +6,7 @@ Data Science is a **multidisciplinary field** that combines techniques from stat
 - Structured Data
 - Semi-structured Data
 - Unstructured Data
+  
 | Data Type       | Description                                          |
 |-----------------|------------------------------------------------------|
 | Structured      | Data organized in a predefined format (e.g., tables) |

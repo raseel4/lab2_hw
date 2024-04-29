@@ -9,9 +9,9 @@ Data Science is a **multidisciplinary field** that combines techniques from stat
   
 | Data Type       | Description                                          |
 |-----------------|------------------------------------------------------|
-| Structured      | Data organized in a predefined format (e.g., tables) |
-| Semi-structured | Data that may not have a rigid structure (e.g., JSON)|
-| Unstructured    | Data without a predefined data model or schema       |
+| Structured      | It is data that has been organized into a stric schema (e.g., tables) |
+| Semi-structured | It is data that doesn’t confirm to a schema but has some structure  (e.g., xml)|
+| Unstructured    | It is data that has no schema   (e.g., photos)   |
 
 ```python
 print("DS Bootcamp")
